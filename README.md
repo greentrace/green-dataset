@@ -29,3 +29,32 @@ test case.
 
 mpg123-play-stream-versions stores the mpg123 version number we have tested under stream playing
 test case.
+
+
+This is a dataset of data used in
+
+    @inproceedings{zhangtrace
+      title={Green Trace: The Impact of Software Change on System Calls and Energy Consumption},
+      author={Zhang, Chenlei and Campbell, Joshua, and Hindle, Abram},
+      booktitle={in submission to Mining Software Repositories (MSR), 2014 11th IEEE Working Conference on},
+      year={2014},
+      organization={IEEE}
+    }
+
+
+LICENSING
+=========
+
+The LICENSE for the Source Code is generally GPL-2+ or GPL-2 compatible.
+
+For DATA http://creativecommons.org/licenses/by/4.0/
+The LICENSE for the Data is CC-BY 4.0 please attribute Abram Hindle using the following instructions:
+
+To properly attribute Chenlei Zhang on as per the requirements of CC-BY 4.0:
+
+@MastersThesis{zhang2013thesis,
+  author =       {Chenlei Zhang},
+  title =        {The Impact of User Choice and Software Change on Energy Consumption},
+  school =       {University of Alberta},
+  year =         {2013},
+}
